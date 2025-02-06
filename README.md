@@ -49,10 +49,10 @@ Tako smo uspešno zaključili razvojno pot od začetne zamisli do konkretne real
 # Datoteke
 [kam_predstavitev.pdf](kam_predstavitev.pdf) - Prezentacija za površinsko predstavitev projekta<br>
 [kam_Business_plan_quick.pdf](kam_Business_plan_quick.pdf) - Poslovni načrt z vidika Startup-a<br>
-[financial_plan.pdf](financial_plan.pdf) - Tabela z financami<br>
 [kam_Business_plan_indepth.pdf](kam_Business_plan_indepth.pdf) - Poslovni načrt z ekonomskega vidika<br>
-[user_story.pdf](user_story.pdf) - Tabela z uporabniškimi zahtevami<br>
 [kam_project_proposal.pdf](kam_project_proposal.pdf) - Predlog projekta <br>
+[user_story.pdf](user_story.pdf) - Tabela z uporabniškimi zahtevami<br>
+[financial_plan.pdf](financial_plan.pdf) - Tabela z financami<br>
 [kam? Proof of concept](https://github.com/tibozic/kam) - Realizacija projekta v obliki proof of concept<br>
 
 Nekatere informacije/podatki se lahko med datotekami razlikujejo zaradi tekočih sprememb med
