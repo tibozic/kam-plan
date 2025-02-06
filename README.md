@@ -31,6 +31,18 @@ Tako smo uspešno zaključili razvojno pot od začetne zamisli do konkretne real
 
 [kam? Proof of concept](https://github.com/tibozic/kam) - Realizacija projekta v obliki proof of concept<br>
 
+# Pridobljena znanja
+- Upravljanje projektov in načrtovanje poteka dela
+- Timsko delo in učinkovita komunikacija
+- Reševanje problemov in prilagajanje nepričakovanim izzivom
+- Kritično razmišljanje in odločanje na podlagi podatkov
+- Pisanje strukturiranih in prepričljivih poročil/predlogov
+- Razumevanje startup miselnosti in poslovnega modeliranja
+- Tržna analiza: raziskava konkurence, ciljne skupine in tržnih trendov
+- Osnove ekonomike: finančno načrtovanje, stroškovna optimizacija, ocena donosnosti
+- Priprava projektnega načrta in strukturiranega predloga
+- Testiranje in validacija ideje skozi proof of concept
+
 # Datoteke
 [kam_predstavitev.pdf](kam_predstavitev.pdf) - Prezentacija za površinsko predstavitev projekta<br>
 [kam_Business_plan_quick.pdf](kam_Business_plan_quick.pdf) - Poslovni načrt z vidika Startup-a<br>
@@ -41,4 +53,4 @@ Tako smo uspešno zaključili razvojno pot od začetne zamisli do konkretne real
 [kam? Proof of concept](https://github.com/tibozic/kam) - Realizacija projekta v obliki proof of concept<br>
 
 Nekatere informacije/podatki se lahko med datotekami razlikujejo zaradi tekočih sprememb med
-izdelavo ter smiselnostjo pogleda iz določenega vidika.
+izdelavo ter smiselnostjo pregleda iz določenega vidika.
