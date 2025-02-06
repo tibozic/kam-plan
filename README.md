@@ -1,4 +1,4 @@
-# kam? - Projektni načrt
+# kam? - Projektni načrt ([kam? - Razvita aplikacija](https://github.com/tibozic/kam))
 V današnjem hitrem svetu lahko za ljudi iskanje zanimivih aktivnosti predstavlja izziv ali pa se preprosto
 ne morejo odločiti, kako bi preživeli svoj prosti čas.<br>
 Z našo aplikacijo kam? omogočamo odkrivanje lokalnih aktivnosti in usklajevanje načrtov s prijatelji.<br>
@@ -28,8 +28,6 @@ Na tej podlagi smo pripravili podroben projektni načrt, ki nam je služil kot s
 Poleg tega smo oblikovali tudi uradni predlog projekta, v katerem smo zbrali ključne ugotovitve, cilje in načrtovane korake. 
 Celoten proces smo zaključili z izdelavo proof of concept, s katerim smo praktično preverili izvedljivost naše ideje in njeno delovanje v realnem okolju. 
 Tako smo uspešno zaključili razvojno pot od začetne zamisli do konkretne realizacije.
-
-[kam? Proof of concept](https://github.com/tibozic/kam) - Realizacija projekta v obliki proof of concept<br>
 
 # Pridobljena znanja
 - Upravljanje projektov in načrtovanje poteka dela
