@@ -1,4 +1,9 @@
 # kam? - Projektni načrt ([kam? - Razvita aplikacija](https://github.com/tibozic/kam))
+
+<p align="center">
+  <img src="planiran_izgled.png">
+</p>
+
 V današnjem hitrem svetu lahko za ljudi iskanje zanimivih aktivnosti predstavlja izziv ali pa se preprosto
 ne morejo odločiti, kako bi preživeli svoj prosti čas.<br>
 Z našo aplikacijo kam? omogočamo odkrivanje lokalnih aktivnosti in usklajevanje načrtov s prijatelji.<br>
